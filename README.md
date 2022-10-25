@@ -150,7 +150,7 @@ No known bugs at this time.
 
 ## Authors
 
-Stanley Mayore - [Github](https://github.com/Leestan360)
+Koech6508
 
 ## License
 Public Domain. No copywrite protection. 
