@@ -150,7 +150,7 @@ No known bugs at this time.
 
 ## Authors
 
-Koech6508github.com/Koech6508
+Koech6508 https://github.com/Koech6508
 
 ## License
 Public Domain. No copywrite protection. 
